@@ -588,7 +588,7 @@ main footer>div img{
 
 .rightFixedBox{
     position: fixed;
-    top: 20%;
+    top: 30%;
     right: .23rem;
     display: flex;
     align-items: center;
